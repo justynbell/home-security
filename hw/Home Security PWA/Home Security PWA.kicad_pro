@@ -189,6 +189,7 @@
       "track_widths": [
         0.0,
         0.254,
+        0.508,
         0.762
       ],
       "tuning_pattern_settings": {
@@ -470,8 +471,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "JLibrary"
+    ],
+    "pinned_symbol_libs": [
+      "JLibrary",
+      "JLibrary_inventree"
+    ]
   },
   "meta": {
     "filename": "Home Security PWA.kicad_pro",

@@ -1,4 +1,4 @@
-27253642592293760
+27282004537623478
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70342,6 +70342,118 @@ THT
 0
 4
 2
+JLibrary
+CAPC201X125X100L50L
+Capacitor, Chip; 2.01 mm L X 1.25 mm W X 1.00 mm H body
+
+0
+2
+2
+JLibrary
+CAPC201X125X100L50M
+Capacitor, Chip; 2.01 mm L X 1.25 mm W X 1.00 mm H body
+
+0
+2
+2
+JLibrary
+CAPC201X125X100L50N
+Capacitor, Chip; 2.01 mm L X 1.25 mm W X 1.00 mm H body
+
+0
+2
+2
+JLibrary
+J00006
+
+
+0
+4
+4
+JLibrary
+J00008
+
+
+0
+20
+20
+JLibrary
+RESC2012X60L
+Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
+
+0
+2
+2
+JLibrary
+RESC2012X60M
+Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
+
+0
+2
+2
+JLibrary
+RESC2012X60N
+Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
+
+0
+2
+2
+JLibrary
+RHDRV5W64P254_5X1_1320X254H850
+Header, Vertical Receptacle, 2.54 mm pitch; 0.64 mm lead width, 5 pin, 1 row, 13.20 mm L X 2.54 mm W X 8.50 mm H body
+
+0
+5
+5
+JLibrary
+RHDRV10W64P254_10X1_2590X254H850
+Header, Vertical Receptacle, 2.54 mm pitch; 0.64 mm lead width, 10 pin, 1 row, 25.90 mm L X 2.54 mm W X 8.50 mm H body
+
+0
+10
+10
+JLibrary
+SOIC127P1030X265-28L
+Small Outline IC (SOIC), 1.27 mm pitch; 28 pin, 17.90 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+28
+28
+JLibrary
+SOIC127P1030X265-28M
+Small Outline IC (SOIC), 1.27 mm pitch; 28 pin, 17.90 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+28
+28
+JLibrary
+SOIC127P1030X265-28N
+Small Outline IC (SOIC), 1.27 mm pitch; 28 pin, 17.90 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+28
+28
+JLibrary
+SOP10P50_300X490X110L55X22L
+Small Outline Pkg (SOP), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+10
+10
+JLibrary
+SOP10P50_300X490X110L55X22M
+Small Outline Pkg (SOP), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+10
+10
+JLibrary
+SOP10P50_300X490X110L55X22N
+Small Outline Pkg (SOP), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+10
+10
 Jumper
 Jumper_Harwin_S1621_P10.9mm
 Harwin SMD jumper link, 12.3x2.3mm, 1.8mm height, 10.9mm pad pitch, https://cdn.harwin.com/pdfs/S1621R.pdf
