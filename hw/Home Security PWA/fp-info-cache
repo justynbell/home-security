@@ -1,4 +1,4 @@
-27282004537623478
+27271379416588878
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70375,8 +70375,8 @@ J00008
 
 
 0
-20
-20
+0
+0
 JLibrary
 RESC2012X60L
 Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
@@ -108016,45 +108016,3 @@ Varistor VF
 0
 2
 2
-footprint
-CONN4_1884340000_WED
-
-1884340000 
-0
-4
-4
-footprint
-CONN_1825960000_WED
-
-1825960000 
-0
-4
-4
-footprint
-PPTC101LFBN-RC
-
-
-0
-10
-10
-footprint
-SOIC28-W_MC_MCH
-
-MCP23017T-E/SO 
-0
-28
-28
-footprint
-SOIC28-W_MC_MCH-L
-
-MCP23017T-E/SO 
-0
-28
-28
-footprint
-SOIC28-W_MC_MCH-M
-
-MCP23017T-E/SO 
-0
-28
-28
